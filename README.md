@@ -1,3 +1,3 @@
 # Messyger
 
-Accompanies <https://intuitiveexplanations.com/tech/messenger>.
+Code to accompany <https://intuitiveexplanations.com/tech/messenger>.
