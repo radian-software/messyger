@@ -2,7 +2,7 @@
 name = "messyger"
 version = "0.1.0"
 description = "Messy Messenger client"
-authors = ["Radon Rosborough <radon.neon@gmail.com>"]
+authors = ["Radian LLC <contact+messyger@radian.codes>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
