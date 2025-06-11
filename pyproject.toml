@@ -6,7 +6,7 @@ authors = ["Radian LLC <contact+messyger@radian.codes>"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<4.0"
-requests = "^2.32.2"
+requests = "^2.32.4"
 esprima = "^4.0.1"
 
 [tool.poetry.dev-dependencies]
